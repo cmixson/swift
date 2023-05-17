@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>genre</key>
+		<string>Comedy</string>
+		<key>poster</key>
+		<string>comedy.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Romance</string>
+		<key>poster</key>
+		<string>romance.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Action</string>
+		<key>poster</key>
+		<string>action.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Animation</string>
+		<key>poster</key>
+		<string>animation.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Drama</string>
+		<key>poster</key>
+		<string>drama.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Mystery</string>
+		<key>poster</key>
+		<string>mystery.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Thriller</string>
+		<key>poster</key>
+		<string>thriller.jpg</string>
+	</dict>
+	<dict>
+		<key>genre</key>
+		<string>Sci-Fi</string>
+		<key>poster</key>
+		<string>scifi.jpg</string>
+	</dict>
+</array>
+</plist>
